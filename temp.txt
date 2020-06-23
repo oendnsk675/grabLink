@@ -1,0 +1,9 @@
+if ($title === $status || $quality === $status || $idImdb === $status || $cariLink === $status) {
+			return;
+		}else{	
+			}
+			
+			
+if ($pre === 1) {
+    file_put_contents($namaFileSql, "");
+  }
